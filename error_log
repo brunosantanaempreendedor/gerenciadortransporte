@@ -1,0 +1,655 @@
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[27-Jun-2018 17:46:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[27-Jun-2018 17:46:50 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:46:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:46:57 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:47:07 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:47:08 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[27-Jun-2018 17:54:25 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[27-Jun-2018 18:00:11 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:12 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[27-Jun-2018 18:00:12 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[27-Jun-2018 18:00:12 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[27-Jun-2018 18:00:12 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[27-Jun-2018 18:00:12 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[27-Jun-2018 18:00:22 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:30 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:34 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:36 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:00:48 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:01:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:01:27 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:01:35 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[27-Jun-2018 18:01:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[28-Jun-2018 11:57:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[28-Jun-2018 11:57:57 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[28-Jun-2018 12:39:08 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[28-Jun-2018 12:54:12 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:54:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:54:24 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:10 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:10 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:15 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:55:26 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:56:14 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:56:14 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:21 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:22 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:30 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:41 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 12:57:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 13:26:22 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 13:26:26 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 13:26:29 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 13:26:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Jun-2018 13:27:13 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:29:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:29:14 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:29:16 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:32:16 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:32:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:32:24 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:32:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Jul-2018 12:32:33 America/Sao_Paulo] PHP Notice:  Undefined variable: listAssc in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[04-Jul-2018 12:32:33 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[04-Jul-2018 12:32:51 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[18-Jul-2018 18:00:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[18-Jul-2018 18:01:35 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[18-Jul-2018 18:01:35 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[18-Jul-2018 18:01:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(19): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/classes/classes.php(13): usuarios->find()
+#2 /home1/aceaggcom/public_html/sistema/index.php(2): require_once('/home1/aceaggco...')
+#3 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[18-Jul-2018 18:01:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[18-Jul-2018 21:57:34 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[18-Jul-2018 21:57:34 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[18-Jul-2018 21:57:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(19): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/classes/classes.php(13): usuarios->find()
+#2 /home1/aceaggcom/public_html/sistema/index.php(2): require_once('/home1/aceaggco...')
+#3 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[18-Jul-2018 21:57:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[18-Jul-2018 21:57:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('adilson', '123456')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 09:51:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:14:47 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:14:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[19-Jul-2018 10:14:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(19): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/classes/classes.php(13): usuarios->find()
+#2 /home1/aceaggcom/public_html/sistema/index.php(2): require_once('/home1/aceaggco...')
+#3 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:14:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('admin', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:18:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('vivian', 'aceagg159753')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:18:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('vivian', 'aceagg159753')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:18:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('vivian', 'aceagg159753')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:37:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:39:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/aceaggcom/public_html/sistema/classes/db.php:27
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(101): db::prepare('SELECT * FROM u...')
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('cezar', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/db.php on line 27
+[19-Jul-2018 10:42:40 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'aceaggcom_sistema.usuarios' doesn't exist in /home1/aceaggcom/public_html/sistema/classes/usuarios.php:103
+Stack trace:
+#0 /home1/aceaggcom/public_html/sistema/classes/usuarios.php(103): PDOStatement->execute()
+#1 /home1/aceaggcom/public_html/sistema/login.php(21): usuarios->doLogin('admin', 'teste')
+#2 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/classes/usuarios.php on line 103
+[19-Jul-2018 10:45:38 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:45:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:45:52 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:46:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:46:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:46:03 America/Sao_Paulo] PHP Notice:  Undefined variable: listAssc in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[19-Jul-2018 10:46:03 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[19-Jul-2018 10:46:09 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:47:34 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[19-Jul-2018 10:47:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:35:36 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:35:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:35:41 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:35:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:36:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[24-Jul-2018 09:36:11 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[25-Jul-2018 16:49:57 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[25-Jul-2018 16:50:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[29-Jul-2018 17:24:01 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[29-Jul-2018 17:24:10 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Aug-2018 09:04:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Aug-2018 09:04:53 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[28-Sep-2018 15:16:07 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[28-Sep-2018 15:16:11 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Sep-2018 15:16:15 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Sep-2018 15:16:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[28-Sep-2018 15:22:38 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[29-Sep-2018 09:29:38 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[29-Sep-2018 09:29:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[29-Sep-2018 09:29:50 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[09-Oct-2018 12:30:23 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[09-Oct-2018 12:30:28 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[09-Oct-2018 12:31:41 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[09-Oct-2018 12:32:13 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[09-Oct-2018 12:32:19 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:25 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:31 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:37 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[09-Oct-2018 12:32:37 America/Sao_Paulo] PHP Notice:  Undefined variable: listAssc in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[09-Oct-2018 12:32:37 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/cabecalho.php on line 78
+[09-Oct-2018 12:33:15 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[11-Oct-2018 20:24:56 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[11-Oct-2018 20:25:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[11-Oct-2018 20:25:05 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[17-Oct-2018 12:32:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[17-Oct-2018 12:32:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[10-Nov-2018 07:57:03 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[10-Nov-2018 08:01:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:02:26 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:02:26 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:02:26 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:02:26 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'includes/metas.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:02:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method veiculos::findAllAlvara() in /home1/aceaggcom/public_html/sistema/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/index.php on line 91
+[10-Nov-2018 08:05:36 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:05:49 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:05:49 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:05:49 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:05:49 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'includes/metas.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:05:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method veiculos::findAllAlvara() in /home1/aceaggcom/public_html/sistema/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/index.php on line 91
+[10-Nov-2018 08:07:04 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:07:04 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:07:04 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:07:04 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'includes/metas.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:07:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method veiculos::findAllAlvara() in /home1/aceaggcom/public_html/sistema/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/index.php on line 91
+[10-Nov-2018 08:09:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:09:44 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:09:44 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:09:44 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'includes/metas.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:09:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method veiculos::findAllAlvara() in /home1/aceaggcom/public_html/sistema/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/index.php on line 91
+[10-Nov-2018 08:37:08 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:37:08 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:37:08 America/Sao_Paulo] PHP Warning:  include(includes/metas.php): failed to open stream: No such file or directory in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:37:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'includes/metas.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/aceaggcom/public_html/sistema/index.php on line 16
+[10-Nov-2018 08:37:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method veiculos::findAllAlvara() in /home1/aceaggcom/public_html/sistema/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home1/aceaggcom/public_html/sistema/index.php on line 91
+[10-Nov-2018 08:38:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:38:30 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[10-Nov-2018 08:38:35 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:21:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:21:42 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[13-Nov-2018 09:21:43 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[13-Nov-2018 09:21:49 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:22:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:24:50 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:25:49 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:27:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 09:28:09 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[13-Nov-2018 15:04:01 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[13-Nov-2018 15:04:09 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 15:04:14 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 15:04:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[13-Nov-2018 15:05:04 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Nov-2018 10:44:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Nov-2018 10:44:45 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[14-Nov-2018 10:44:46 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[14-Nov-2018 10:44:50 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Nov-2018 10:44:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Nov-2018 10:45:16 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Dec-2018 12:51:37 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Dec-2018 12:51:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[14-Dec-2018 12:51:48 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[04-Feb-2019 14:06:10 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[04-Feb-2019 14:06:22 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[04-Feb-2019 14:25:26 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[04-Feb-2019 14:25:30 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:25:37 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:25:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:25:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:26:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:26:06 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 14:26:11 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[04-Feb-2019 16:43:47 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[04-Feb-2019 16:43:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:44:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:44:11 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:45:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:45:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:45:47 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 16
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 17
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 18
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 19
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 20
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 21
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 22
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 23
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 24
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 25
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 26
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 27
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 28
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 29
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 30
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 31
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 32
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 33
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 34
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 35
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 36
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 37
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 38
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 39
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 40
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 41
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 42
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 43
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 44
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 45
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 46
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 47
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 48
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 49
+[04-Feb-2019 16:45:59 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:46:05 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:46:16 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 16
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 17
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 18
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 19
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 20
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 21
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 22
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 23
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 24
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 25
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 26
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 27
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 28
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 29
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 30
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 31
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 32
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 33
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 34
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 35
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 36
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 37
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 38
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 39
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 40
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 41
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 42
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 43
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 44
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 45
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 46
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 47
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 48
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 49
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:46:17 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:56:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:58:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:59:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:59:46 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 16
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 17
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 18
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 19
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 20
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 21
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 22
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 23
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 24
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 25
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 26
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 27
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 28
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 29
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 30
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 31
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 32
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 33
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 34
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 35
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 36
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 37
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 38
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 39
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 40
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 41
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 42
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 43
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 44
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 45
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 46
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 47
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 48
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 49
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 16:59:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 16:59:59 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:01:30 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:01:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 16
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 17
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 18
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 19
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 20
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 21
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 22
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 23
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 24
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 25
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 26
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 27
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 28
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 29
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 30
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 31
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 32
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 33
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 34
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 35
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 36
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 37
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 38
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 39
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 40
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 41
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 42
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 43
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 44
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 45
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 46
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 47
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 48
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 49
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:01:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:01:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:42 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:54 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 16
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 17
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 18
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 19
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 20
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 21
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 22
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 23
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 24
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 25
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 26
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 27
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 28
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 29
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 30
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 31
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 32
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 33
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 34
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 35
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 36
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 37
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 38
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 39
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 40
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 41
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 42
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 43
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 44
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 45
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 46
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 47
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 48
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 49
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home1/aceaggcom/public_html/sistema/associado_importar.php on line 50
+[04-Feb-2019 17:02:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:02:58 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:03:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:04:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:04:06 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:04:28 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/classes/session.php on line 23
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 16
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 24
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 26
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_left.php on line 76
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 13
+[04-Feb-2019 17:07:29 America/Sao_Paulo] PHP Notice:  Undefined variable: logRow in /home1/aceaggcom/public_html/sistema/menu_topo.php on line 19
+[04-Feb-2019 17:07:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:08:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:08:49 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:08:53 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:08:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:09:28 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:12:39 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:12:40 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:44 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:47 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:50 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:13:56 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:16:02 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:16:05 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:17:14 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:17:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:17:45 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:20:03 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:20:09 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:20:26 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
+[04-Feb-2019 17:20:33 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home1/aceaggcom/public_html/sistema/classes/session.php on line 3
